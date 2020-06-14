@@ -5,3 +5,15 @@
 body {
   font-family: 'Play', sans-serif;
 }
+
+/* @media print {
+  h2 { 
+    page-break-before: always;
+  }
+  h3, h4 {
+    page-break-after: avoid;
+  }
+  pre, blockquote {
+    page-break-inside: avoid;
+  }
+} */
