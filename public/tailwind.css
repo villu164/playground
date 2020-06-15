@@ -4,6 +4,9 @@
 
 body {
   font-family: 'Play', sans-serif;
+}
+
+.text-justify {
   hyphens: auto;
 }
 
